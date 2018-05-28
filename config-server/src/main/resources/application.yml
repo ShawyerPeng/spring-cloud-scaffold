@@ -1,0 +1,19 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      uri: http://localhost:8888
+      server:
+        git:
+          uri: file:C://Users/ShawyerPeng/Desktop/config-server # https://github.com/ShawyerPeng/spring-cloud-config
+          search-paths: config
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${spring.application.instance_id}:${server.port}

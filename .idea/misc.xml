@@ -9,6 +9,14 @@
         <option value="$PROJECT_DIR$/reservation-service/pom.xml" />
         <option value="$PROJECT_DIR$/reservation-client/pom.xml" />
         <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/consul-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-consumer/eureka-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-consumer/eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon/ribbon-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon/eureka-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon/eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon/eureka-provider-3/pom.xml" />
       </list>
     </option>
   </component>

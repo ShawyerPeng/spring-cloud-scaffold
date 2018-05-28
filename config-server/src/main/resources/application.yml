@@ -8,12 +8,20 @@ spring:
       uri: http://localhost:8888
       server:
         git:
-          uri: file:C://Users/ShawyerPeng/Desktop/config-server # https://github.com/ShawyerPeng/spring-cloud-config
-          search-paths: config
+#          uri: https://github.com/ShawyerPeng/spring-cloud-config-repo
+#          search-paths: spring-cloud-config-repo
+          default-label: master
+          uri: file:C://Users/ShawyerPeng/Desktop/spring-cloud-config-repo
+          # search-paths: config-server/config
+          # username=xxx
+          # password=xxx
+      label: master
+      profile: default
 eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka
   instance:
-    prefer-ip-address: true
-    instance-id: ${spring.application.name}:${spring.application.instance_id}:${server.port}
+    hostname: localhost
+#    prefer-ip-address: true
+#    instance-id: ${spring.application.name}:${spring.application.instance_id}:${server.port}

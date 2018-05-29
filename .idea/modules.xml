@@ -5,15 +5,23 @@
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/consul-client/consul-client.iml" filepath="$PROJECT_DIR$/consul-client/consul-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbon/eureka-provider-1/eureka-provider-1.iml" filepath="$PROJECT_DIR$/ribbon/eureka-provider-1/eureka-provider-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/eureka-provider-1/eureka-provider-1 (1).iml" filepath="$PROJECT_DIR$/zuul/eureka-provider-1/eureka-provider-1 (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbon/eureka-provider-2/eureka-provider-2.iml" filepath="$PROJECT_DIR$/ribbon/eureka-provider-2/eureka-provider-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/eureka-provider-2/eureka-provider-2 (1).iml" filepath="$PROJECT_DIR$/zuul/eureka-provider-2/eureka-provider-2 (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbon/eureka-provider-3/eureka-provider-3.iml" filepath="$PROJECT_DIR$/ribbon/eureka-provider-3/eureka-provider-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/eureka-provider-3/eureka-provider-3 (1).iml" filepath="$PROJECT_DIR$/zuul/eureka-provider-3/eureka-provider-3 (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/feign-consumer-hystrix/feign-consumer-hystrix.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/feign-consumer-hystrix/feign-consumer-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/reservation-client/reservation-client.iml" filepath="$PROJECT_DIR$/reservation-client/reservation-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/reservation-service/reservation-service.iml" filepath="$PROJECT_DIR$/reservation-service/reservation-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/ribbon/ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/ribbon/ribbon-consumer/ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/ribbon-consumer-hystrix/ribbon-consumer-hystrix.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/ribbon-consumer-hystrix/ribbon-consumer-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-scaffold.iml" filepath="$PROJECT_DIR$/spring-cloud-scaffold.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul-service/zuul-service.iml" filepath="$PROJECT_DIR$/zuul/zuul-service/zuul-service.iml" />
     </modules>
   </component>
 </project>

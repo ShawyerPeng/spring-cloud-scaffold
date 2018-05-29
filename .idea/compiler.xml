@@ -9,15 +9,23 @@
         <module name="config-server" />
         <module name="consul-client" />
         <module name="eureka-provider-1" />
+        <module name="eureka-provider-1 (1)" />
         <module name="eureka-provider-2" />
+        <module name="eureka-provider-2 (1)" />
         <module name="eureka-provider-3" />
+        <module name="eureka-provider-3 (1)" />
         <module name="eureka-server" />
+        <module name="feign-consumer-hystrix" />
+        <module name="hystrix" />
         <module name="hystrix-dashboard" />
         <module name="reservation-client" />
         <module name="reservation-service" />
         <module name="ribbon" />
         <module name="ribbon-consumer" />
+        <module name="ribbon-consumer-hystrix" />
         <module name="spring-cloud-scaffold" />
+        <module name="zuul" />
+        <module name="zuul-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,15 +33,23 @@
       <module name="consul-client" target="1.8" />
       <module name="eureka-provider" target="1.8" />
       <module name="eureka-provider-1" target="1.8" />
+      <module name="eureka-provider-1 (1)" target="1.8" />
       <module name="eureka-provider-2" target="1.8" />
+      <module name="eureka-provider-2 (1)" target="1.8" />
       <module name="eureka-provider-3" target="1.8" />
+      <module name="eureka-provider-3 (1)" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="feign-consumer-hystrix" target="1.8" />
+      <module name="hystrix" target="1.8" />
       <module name="hystrix-dashboard" target="1.8" />
       <module name="reservation-client" target="1.8" />
       <module name="reservation-service" target="1.8" />
       <module name="ribbon" target="1.8" />
       <module name="ribbon-consumer" target="1.8" />
+      <module name="ribbon-consumer-hystrix" target="1.8" />
       <module name="spring-cloud-scaffold" target="1.5" />
+      <module name="zuul" target="1.8" />
+      <module name="zuul-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

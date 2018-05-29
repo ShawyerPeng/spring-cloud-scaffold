@@ -4,16 +4,21 @@
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/consul-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-dashboard/feign-consumer-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-dashboard/ribbon-consumer-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/reservation-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/reservation-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ribbon-consumer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ribbon-consumer/eureka-provider" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ribbon-consumer/eureka-provider-2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon/eureka-provider-1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon/eureka-provider-2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon/eureka-provider-3" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon/ribbon-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/eureka-provider-1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/eureka-provider-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/eureka-provider-3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/zuul-service" charset="UTF-8" />
   </component>
 </project>

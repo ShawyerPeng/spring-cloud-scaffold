@@ -17,6 +17,14 @@
         <option value="$PROJECT_DIR$/ribbon/eureka-provider-1/pom.xml" />
         <option value="$PROJECT_DIR$/ribbon/eureka-provider-2/pom.xml" />
         <option value="$PROJECT_DIR$/ribbon/eureka-provider-3/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/feign-consumer-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/ribbon-consumer-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/zuul-service/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/eureka-provider-1/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/eureka-provider-2/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/eureka-provider-3/pom.xml" />
       </list>
     </option>
   </component>
